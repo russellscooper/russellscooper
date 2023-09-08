@@ -9,7 +9,7 @@
 <p>Today I added my bio information and started a new directory called COVID-19 Dash.
    This dash is intended to be a small weekend project. Im setting a due date for 
    version one at 2400 PT on 09/10/2023. 
-   Check README.md in the directory for more information. 
+   Check README.md in the repository for more information. 
 </p>
 <!---
 russellscooper/russellscooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
