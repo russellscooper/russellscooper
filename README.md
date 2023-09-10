@@ -11,6 +11,13 @@
    version one at 2400 PT on 09/10/2023. 
    Check README.md in the repository for more information. 
 </p>
+<h5>09/10/2023</h5>
+<p>I set COVID-19 Dash to private until api problem could be solved. 
+   Other than that the project was a good example of how to use CSS,
+   js, and html. 
+   I will pick this project up a little later and try to fix it. 
+   In the mean time, next weeks data project will use python instead of js. 
+</p>
 <!---
 russellscooper/russellscooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
