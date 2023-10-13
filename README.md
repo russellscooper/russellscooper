@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam
 - 👀 I’m interested in data visualization, machine learning, statistics, and predictive analysis. 
-- 🌱 I’m currently learning pytorch 
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on projects that help with K-12 education, medical administration, or public safety. 
 - 🌎 Checkout my homepage by [clicking this link](https://samuelcooperlvnv.w3spaces.com)
 
